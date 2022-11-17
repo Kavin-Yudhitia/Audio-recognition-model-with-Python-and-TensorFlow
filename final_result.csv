@@ -1,0 +1,22 @@
+,file,start,stop,water
+0,preprocessed_test data water and non_water,0.0,3.0,0
+1,preprocessed_test data water and non_water,3.0,5.5,1
+2,preprocessed_test data water and non_water,5.5,6.5,0
+3,preprocessed_test data water and non_water,6.5,9.5,1
+4,preprocessed_test data water and non_water,9.5,18.0,0
+5,preprocessed_test data water and non_water,18.0,20.0,1
+6,preprocessed_test data water and non_water,20.0,20.5,0
+7,preprocessed_test data water and non_water,20.5,23.0,1
+8,preprocessed_test data water and non_water,23.0,24.5,0
+9,preprocessed_test data water and non_water,24.5,26.0,1
+10,preprocessed_test data water and non_water,26.0,27.5,0
+11,preprocessed_test data water and non_water,27.5,28.5,1
+12,preprocessed_test data water and non_water,28.5,29.0,0
+13,preprocessed_test data water and non_water,29.0,29.5,1
+14,preprocessed_test data water and non_water,29.5,30.0,0
+15,preprocessed_test data water and non_water,30.0,30.5,1
+16,preprocessed_test data water and non_water,30.5,31.0,0
+17,preprocessed_test data water and non_water,31.0,31.5,1
+18,preprocessed_test data water and non_water,31.5,32.0,0
+19,preprocessed_test data water and non_water,32.0,33.0,1
+20,preprocessed_test data water and non_water,33.0,35.5033125,0

@@ -1,0 +1,17 @@
+﻿file,start,stop,water
+audio_1,0,0.5,0
+audio_1,0.5,1,1
+audio_1,1,1.7,0
+audio_1,1.7,2,1
+audio_2,0,0.7,0
+audio_2,0.7,1,1
+audio_2,1,1.5,0
+audio_2,1.5,2,1
+audio_3,0,0.5,0
+audio_3,0.5,1,0
+audio_3,1,1.7,0
+audio_3,1.7,2,0
+audio_4,0,0.7,0
+audio_4,0.7,1,0
+audio_4,1,1.5,0
+audio_4,1.5,2,0
